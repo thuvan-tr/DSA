@@ -7,9 +7,8 @@ print(a)
 
 #Bai 3
 b="hello"
-c=" "
 d="world"
-e=b+c+d
+e=b+" "+d
 print(e)
 
 #Bai 4
